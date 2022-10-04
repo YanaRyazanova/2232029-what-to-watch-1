@@ -1,6 +1,6 @@
 # Личный проект «Что посмотреть»
 
-* Студент: [Яна Рязанова](https://up.htmlacademy.ru/univer-js3-urfu/1/user/2232029).
+* Студент: [Яна Левченко](https://up.htmlacademy.ru/univer-js3-urfu/1/user/2232029).
 * Наставник: [Александр Григорьев](https://htmlacademy.ru/profile/fuckhtml).
 
 ---
